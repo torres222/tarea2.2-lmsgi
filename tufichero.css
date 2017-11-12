@@ -1,0 +1,147 @@
+
+<style>
+<!-- Aqui va un comentario que no es interpretado por el navegador Enllacos de color diferent al que hi ha per defecte-->
+ 
+a:link {
+    color: tomato;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+
+
+<!-- Aqui va un comentario que no es interpretado por el navegador Taula amb capcalera i alternancia de colors-->
+
+
+
+table {
+   color: #333;
+	font-family: helvetica,arial,sans-serif;
+	width:640px;
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid transparent;
+	height: 30px;
+}
+
+th{
+	background: #D3D3D3;
+	font-weight: bold;
+}
+
+td{
+	background: #FAFAFA;
+	text-align: center;
+}
+
+tr:nth-child(even) td {
+	background: #F1F1F1;
+}
+tr:nth-child(odd) td {
+	background: #FEFEFE;
+}
+tr td:hover {
+	background: #666;
+	color: #FFF;
+}
+ 
+
+
+
+<!-- Aqui va un comentario que no es interpretado por el navegador Fons de color-->
+
+
+
+
+h1 {
+    background-color: Gray;
+}
+
+h4 {
+    background-color: LightGray;
+}
+
+
+body {
+    background-color: lightblue;
+}
+
+
+
+
+
+
+
+<!-- Aqui va un comentario que no es interpretado por el navegador Tot el text ha de tenir font Arial i grandaria adequada al disseny-->
+
+body {
+    font-family: "Arial", serif;
+	font-size: 16pt;
+}
+
+
+
+
+
+
+
+</style>
+  
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    
+
